@@ -1,0 +1,9 @@
+<svg width="35" height="60" viewBox="0 0 35 60">
+  <g id="Group_1" data-name="Group 1" transform="translate(-666 -578)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(666 578)" fill="none" stroke="#66fcf1" stroke-linecap="round" stroke-width="2">
+      <rect width="35" height="60" rx="17.5" stroke="none"/>
+      <rect x="1" y="1" width="33" height="58" rx="16.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="9" cy="9" r="9" transform="translate(675 590)" fill="#fff"/>
+  </g>
+</svg>
